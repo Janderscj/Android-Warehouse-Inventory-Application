@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Warehouse</string>
+    <string name="location">Location</string>
+    <string name="quantity">Quantity</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="new_user">New User</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="login_title">Login</string>
+    <string name="password_hint">Password</string>
+    <string name="inventory_items_title">Inventory Items</string>
+    <string name="search_inventory_hint">Search inventory...</string>
+    <string name="add_item_btext">Add Item</string>
+    <string name="sms_notifications_btext">SMS Notifications</string>
+    <string name="modify_inventory_item_title">Modify Inventory Item</string>
+    <string name="item_name_label">Item Name</string>
+    <string name="item_id_sku_label">Item ID / SKU</string>
+    <string name="quantity_label">Quantity</string>
+    <string name="location_label">Location</string>
+    <string name="delete_item_button">Delete Item</string>
+    <string name="save_changes_button">Save Changes</string>
+    <string name="notification_settings_title">Notification Settings</string>
+    <string name="checking_sms_permission_text">Checking SMS permission...</string>
+    <string name="alert_phone_number_hint">Alert Phone Number</string>
+    <string name="save_settings_button">Save Settings</string>
+    <string name="low_stock_description">Low stock alerts will be sent when an item quantity drops below 10 units.</string>
+    <string name="card_item_name">Item Name</string>
+    <string name="Card_id_example_text">SKU: ABC-123</string>
+    <string name="card_qty_ex_text">Qty: 100</string>
+    <string name="card_loc_ex_text">A266</string>
+</resources>
